@@ -26,3 +26,4 @@ Server diberikan IP DMZ
 <img src="https://github.com/heirsall/Lapres_Modul4_JA04/blob/master/cidr%20fixx.png"> 
 
 # perhitungan CIDR 
+<img src="https://github.com/heirsall/Lapres_Modul4_JA04/blob/master/perhitungan%20cidr%20part%201.png">
