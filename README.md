@@ -28,3 +28,6 @@ Server diberikan IP DMZ
 # perhitungan CIDR 
 <img src="https://github.com/heirsall/Lapres_Modul4_JA04/blob/master/perhitungan%20cidr%20part%201.png">
 <img src="https://github.com/heirsall/Lapres_Modul4_JA04/blob/master/perhitungan%20cidr%20part%202.png">
+
+<p> Setelah diterapkan ke Cisco Packet Tracer </p>
+<img src="https://github.com/heirsall/Lapres_Modul4_JA04/blob/master/cisco%20cidr.png">
