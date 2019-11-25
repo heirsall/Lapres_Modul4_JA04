@@ -23,6 +23,6 @@ Server diberikan IP DMZ
 
 <p> subnetting setelah di kelompokan berdasarkan CIDR </p>
 
-<img src="https://github.com/heirsall/Lapres_Modul4_JA04/blob/master/CIDR%20FIXX.png"> 
+<img src="https://github.com/heirsall/Lapres_Modul4_JA04/blob/master/cidr%20fixx.png"> 
 
 # perhitungan CIDR 
